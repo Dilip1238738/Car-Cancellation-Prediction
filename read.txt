@@ -1,7 +1,7 @@
 YOURCABS - CAPSTONE PROJECT
 
-The business problem tackled here is trying to improve customer service for YourCabs.com,
-a cab company in Banglore.
+The business problem tackled here is trying to improve customer service for 
+YourCabs.com, a cab company in Banglore.
 
 The problem of interest is booking cancellations by the company due to 
 unavailability of a car. The challenge is that canccellations can occur  very
